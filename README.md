@@ -2,8 +2,6 @@
 
 A modern, responsive news portal built with React, Firebase, and Tailwind CSS. Features dynamic content rendering, category-wise filtering, and secure user authentication.
 
-![Screenshot](https://github.com/yourusername/dragon-news/blob/main/screenshot.png)
-
 ---
 
 ## 🔍 Overview
